@@ -1,5 +1,5 @@
 ### Hi there, I'm Joel 👋
-- I’m a Front-end developement 👀 
+- I’m a Front-end developer 👀 
 - I’m currently learning Jest 🌱 
 
 <!---
