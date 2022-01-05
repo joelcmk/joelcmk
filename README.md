@@ -1,6 +1,6 @@
 ### Hi there, I'm Joel 👋
 - I’m a Front-end developer 👀 
-- I’m currently learning Jest 🌱 
+- I’m currently learning Firebase 🌱 
 
 <!---
 joelcmk/joelcmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
