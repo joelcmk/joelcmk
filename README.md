@@ -1,6 +1,11 @@
 ### Hi there, I'm Joel 👋
-- I’m a Front-end developer 👀 
-- I’m currently learning Redux 🌱 
+- I’m a Front-end developer looking for new oportunities 👀 
+- 🔭 I’m currently working on implementing new features to my [budget tracker application](https://joelcmk.github.io/budget-calculator)
+- 🌱 I’m currently learning Redux 
+- 👯 I’m looking to collaborate on JS/React projects that enhance the lives of the users and people in need
+- 🤔 I’m looking for help to get my first web developing job.
+- 📫 How to reach me: Linkedin
+- ⚡ Fun fact: I’ve never watched or read any Harry Potter or Lord of the Rings movies/books. 
 
 <!---
 joelcmk/joelcmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
